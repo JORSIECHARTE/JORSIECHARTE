@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Backend Jr. enfocado en Python, datos y automatización</h3>
 
 <p align="center">
-  <img src="A_banner_image_introduces_Joaquín_Orsi_Echarte_as_.png" alt="Banner Joaquín Orsi Echarte.png" />
+  <img src="banner_joaquin.png" alt="Banner Joaquín Orsi Echarte" width="100%" />
 </p>
 
 ---
