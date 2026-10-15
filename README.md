@@ -68,10 +68,6 @@ I also build software and automation tools. Development supports my cybersecurit
 
 **Development tools:** Git · GitHub · VS Code · Docker
 
-### [IA-Recetas](https://github.com/JORSIECHARTE/IA-Recetas)
-
-A software project focused on recipe management, information processing, and automation. It represents part of my broader application-development experience.
-
 ---
 
 ## Continuous Learning
